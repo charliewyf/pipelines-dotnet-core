@@ -1,4 +1,5 @@
-[![Build Status](https://devdiv.visualstudio.com/DevDiv/_apis/build/status/DevDiv-CI%20Build-CI%20(1))](https://devdiv.visualstudio.com/DevDiv/_build/latest?definitionId=10314)# Sample ASP.NET Core application for Azure Pipelines docs
+[![Build Status](https://devdiv.visualstudio.com/DevDiv/_apis/build/status/MyFirstPipeline)](https://devdiv.visualstudio.com/DevDiv/_build/latest?definitionId=10315)
+# Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
